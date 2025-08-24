@@ -1,0 +1,3 @@
+SELECT S_NAME,S_ROLL_NO FROM college;
+SELECT CONTACT, DEPARTMENT FROM college ;
+SELECT * FROM college where S_NAME = 'Muneeb';
